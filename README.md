@@ -163,7 +163,7 @@ in the [FFmpeg Compilation Guide](https://trac.ffmpeg.org/wiki/CompilationGuide)
 To get everything up and running, first clone and navigate into this repository with:
 
 ```sh
-git clone https://github.com/alexa-games/skill-flow-builder.git && cd skill-flow-builder/
+git clone https://github.com/PatrickJYKang/skill-flow-builder && cd skill-flow-builder/
 ```
 
 To install the node dependencies and build all the modules in the `packages/` directory:
